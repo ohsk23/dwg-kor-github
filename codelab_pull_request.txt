@@ -2,7 +2,7 @@ Step1, Please append your name in the month of your birth.
 
 Jan: dwg-hcpark, yliayoo
 Feb: SeoJung
-Mar: seralee
+Mar: seralee, JiyeonPark
 Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin
 Jun:
@@ -28,3 +28,4 @@ leesr: https://github.com/leesr/Pre-workForGithub
 syshin: https://github.com/melonpeach/dwg-codelab
 ygyoon: https://github.com/czerny92/TEST_HI
 DohyunKim: https://github.com/dhdh6190/HWrepo
+JiyeonPark: https://github.com/timedilation/SongsnMovies
