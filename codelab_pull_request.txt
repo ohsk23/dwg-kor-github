@@ -9,7 +9,7 @@ Jun:
 Jul:
 Aug: ygyoon
 Sept: DohyunKim, hjchoi
-Oct:
+Oct: JiwooMin
 Nov: hyunSo, JihyungMoon
 Dec:
 
@@ -31,3 +31,4 @@ DohyunKim: https://github.com/dhdh6190/HWrepo
 JiyeonPark: https://github.com/timedilation/SongsnMovies
 nywoo_o: https://github.com/nywoo-o/HWrepo
 hjchoi: https://github.com/hjbc0921/DevelopwithGoogle-Git
+JiwooMin: https://github.com/Joowce/codelab1
