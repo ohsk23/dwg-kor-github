@@ -8,7 +8,7 @@ May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
 Jun:
 Jul:
 Aug: ygyoon
-Sept:DohyunKim
+Sept: DohyunKim, hjchoi
 Oct:
 Nov: hyunSo, JihyungMoon
 Dec:
@@ -30,3 +30,4 @@ ygyoon: https://github.com/czerny92/TEST_HI
 DohyunKim: https://github.com/dhdh6190/HWrepo
 JiyeonPark: https://github.com/timedilation/SongsnMovies
 nywoo_o: https://github.com/nywoo-o/HWrepo
+hjchoi: https://github.com/hjbc0921/DevelopwithGoogle-Git
