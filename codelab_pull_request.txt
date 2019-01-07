@@ -1,7 +1,7 @@
 Step1, Please append your name in the month of your birth.
 
 Jan: dwg-hcpark, yliayoo
-Feb: SeoJung
+Feb: SeoJung, AeriCho
 Mar: seralee, JiyeonPark
 Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
@@ -32,3 +32,4 @@ JiyeonPark: https://github.com/timedilation/SongsnMovies
 nywoo_o: https://github.com/nywoo-o/HWrepo
 hjchoi: https://github.com/hjbc0921/DevelopwithGoogle-Git
 JiwooMin: https://github.com/Joowce/codelab1
+AeriCho: https://github.com/aeri206/2019dwg
