@@ -7,7 +7,7 @@ Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
 Jun:
 Jul:
-Aug: ygyoon
+Aug: ygyoon, BoheeLee
 Sept: DohyunKim, hjchoi
 Oct: JiwooMin
 Nov: hyunSo, JihyungMoon
@@ -33,3 +33,4 @@ nywoo_o: https://github.com/nywoo-o/HWrepo
 hjchoi: https://github.com/hjbc0921/DevelopwithGoogle-Git
 JiwooMin: https://github.com/Joowce/codelab1
 AeriCho: https://github.com/aeri206/2019dwg
+BoheeLee: https://github.com/leebohee/MyCodelab.git
