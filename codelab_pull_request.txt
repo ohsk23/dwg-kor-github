@@ -1,6 +1,6 @@
 Step1, Please append your name in the month of your birth.
 
-Jan: dwg-hcpark, yliayoo
+Jan: dwg-hcpark, yliayoo, JaneYi
 Feb: SeoJung, AeriCho, JihyunSong, MinAKim
 Mar: seralee, JiyeonPark
 Apr: JungMinOh
@@ -38,3 +38,4 @@ JihyunSong: https://github.com/Song-jh/asdf
 SeoyoungKo: https://github.com/koseoyoung/dwg_codelab_repo
 DoyeonKim: https://github.com/O0laf/Doyeon
 MinAKim: https://github.com/coder-mina/favorite.git
+JaneYi : https://github.com/HelloJaneJane/jane_google
