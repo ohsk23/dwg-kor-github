@@ -3,7 +3,7 @@ Step1, Please append your name in the month of your birth.
 Jan: dwg-hcpark, yliayoo, JaneYi
 Feb: SeoJung, AeriCho, JihyunSong, MinAKim
 Mar: seralee, JiyeonPark
-Apr: JungMinOh, NayeongKim
+Apr: JungMinOh, NayeongKim, SukyungOh
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
 Jun: SeoyoungKo, YujinJeong
 Jul: DoyeonKim
@@ -41,3 +41,4 @@ MinAKim: https://github.com/coder-mina/favorite.git
 JaneYi : https://github.com/HelloJaneJane/jane_google
 NayeongKim : https://github.com/grace12021/springcat_google
 YujinJeong: https://github.com/yujin627/Practice.git
+SukyungOh: https://github.com/ohsk23/dwg_1.git
