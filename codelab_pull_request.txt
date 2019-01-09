@@ -5,7 +5,7 @@ Feb: SeoJung, AeriCho, JihyunSong, MinAKim
 Mar: seralee, JiyeonPark
 Apr: JungMinOh, NayeongKim
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
-Jun: SeoyoungKo
+Jun: SeoyoungKo, YujinJeong
 Jul: DoyeonKim
 Aug: ygyoon, BoheeLee
 Sept: DohyunKim, hjchoi
@@ -40,3 +40,4 @@ DoyeonKim: https://github.com/O0laf/Doyeon
 MinAKim: https://github.com/coder-mina/favorite.git
 JaneYi : https://github.com/HelloJaneJane/jane_google
 NayeongKim : https://github.com/grace12021/springcat_google
+YujinJeong: https://github.com/yujin627/Practice.git
