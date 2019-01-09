@@ -5,7 +5,7 @@ Feb: SeoJung, AeriCho, JihyunSong
 Mar: seralee, JiyeonPark
 Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
-Jun:
+Jun: SeoyoungKo
 Jul:
 Aug: ygyoon, BoheeLee
 Sept: DohyunKim, hjchoi
@@ -35,3 +35,4 @@ JiwooMin: https://github.com/Joowce/codelab1
 AeriCho: https://github.com/aeri206/2019dwg
 BoheeLee: https://github.com/leebohee/MyCodelab.git
 JihyunSong: https://github.com/Song-jh/asdf
+SeoyoungKo: https://github.com/koseoyoung/dwg_codelab_repo
